@@ -142,7 +142,8 @@ body{
 }
 .parametro-senha__botao{
     background-color: var(--fundo-texto);
-    color: var(--branco);
+    colo
+    const campoSenha = document.querySelector('#campo-senha');r: var(--branco);
     border: 2px solid var(--borda);
 }
 .parametro-senha__botao{
